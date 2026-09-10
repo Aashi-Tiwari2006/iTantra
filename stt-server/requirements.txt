@@ -1,0 +1,6 @@
+Flask
+torch
+torchaudio
+transformers
+openai-whisper
+soundfile
